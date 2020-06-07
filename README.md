@@ -8,6 +8,12 @@ Conectando pessoas à reciclagem!
 <h5 align="center">
   Feito com ReactJS | React Native | Node.js
 </h5>
+<h5 align="center">
+  Projeto desenvolvido durante a semana do <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
+</h5>
+<h5 align="center"> 
+	🚧 Readme em construção... 🚧
+</h5>
 
 
 
@@ -23,6 +29,9 @@ Conectando pessoas à reciclagem!
 
   <a href="https://github.com/burn-c/goeat-api/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/burn-c/Ecoleta?style=social">
+  </a>
+    <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
 </p>
 
