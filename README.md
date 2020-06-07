@@ -9,7 +9,7 @@ Conectando pessoas à reciclagem!
   Feito com ReactJS | React Native | Node.js
 </h5>
 <h5 align="center">
-  Projeto desenvolvido durante a semana do <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
+  Projeto desenvolvido durante a semana do <strong>Next Level Week</strong> distribuída pela <strong>Rocketseat</strong>.
 </h5>
 <h5 align="center"> 
 	🚧 Readme em construção... 🚧
@@ -39,7 +39,7 @@ Conectando pessoas à reciclagem!
   <a href="#---instalar-e-executar">Instalar e executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-frontend--acesso-para-administradores-">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-mobile--acesso-para-alunos-">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-mobile--econtrar-pontos-de-coletas-">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
